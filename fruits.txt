@@ -1,3 +1,7 @@
 apple
+pineapple
+mango
+pear
+melon
 watermelon
 mango
